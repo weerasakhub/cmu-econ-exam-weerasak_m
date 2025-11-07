@@ -1,3 +1,6 @@
+ลิงค์ไฟล์งาน สำรอง แบบโฟรเดอร์
+https://drive.google.com/drive/folders/1x_eZuD0voEdqSaQk9sTc3IEQut5M3koL?usp=drive_link
+
 name : blogs_econ_db
 
 Table
